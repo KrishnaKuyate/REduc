@@ -2,6 +2,6 @@
 R Language Code  written during learning
 
 Topics:
->Logical Operator 
->Relational Operator
->Conditional Statements
+1)Logical Operator 
+2)Relational Operator
+3)Conditional Statements
